@@ -62,3 +62,9 @@ jobs:
     steps:
       - name: Deploy
         uses: actions/deploy-pages@v4
+      
+      - name: Move files to /blog folder
+        run: |
+          mkdir -p /tmp/blog
+          mv ./public/* /tmp/blog
+          mv /tmp/blog/* ./public/
