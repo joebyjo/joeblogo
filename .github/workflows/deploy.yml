@@ -40,6 +40,9 @@ jobs:
 
     - name: Build Hugo
       run: hugo --minify --baseURL "https://joebyjo.github.io/blog/"
+    
+    - name: Check public directory
+      run: ls -alh ./public
 
     - name: Upload Pages artifact
       uses: actions/upload-pages-artifact@v3
