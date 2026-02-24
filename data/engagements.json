@@ -1,0 +1,57 @@
+[
+  {
+    "title": "Minesweeper 2.0",
+    "links": [
+      {
+        "url": "https://github.com/joebyjo/minesweeper2.0",
+        "linkLabel": "[Github Link]"
+      }
+    ],
+    "date": "15-10-2024",
+    "description": "A thrilling twist on the classic Minesweeper game with powerups that help you flag mines, reveal safe tiles, and strategize your way to victory"
+  },
+  {
+    "title": "TypeDash",
+    "links": [
+      {
+        "url": "https://github.com/joebyjo/TypeDash",
+        "linkLabel": "[Github Link]"
+      }
+    ],
+    "date": "15-10-2024",
+    "description": "A fast-paced typing game built for improving speed and accuracy with a clean UI and real-time feedback."
+  },
+  {
+    "title": "DuckCTF in collaboration with AC3",
+    "links": [
+      {
+        "url": "https://www.cybercollaboration.org.au/",
+        "linkLabel": "[Link]"
+      }
+    ],
+    "date": "15-10-2024",
+    "description": "Secured a top 5 finish in DuckCTF alongside the A3C, showcasing my enthusiasm for learning and engaging with the growing cybersecurity community."
+  },
+  {
+    "title": "Typing-Speed-TUI",
+    "links": [
+      {
+        "url": "https://github.com/joebyjo/Typing-Speed-TUI",
+        "linkLabel": "[Github Link]"
+      }
+    ],
+    "date": "15-10-2024",
+    "description": "A simple Python typing speed test with user-wise data tracking, session history, best run stats, and a leaderboard—powered by built-in libraries and Pickle."
+  },
+  {
+    "title": "RandyTrandy Discord Bot",
+    "links": [
+      {
+        "url": "https://github.com/joebyjo/Randy-Trandy",
+        "linkLabel": "[Github Link]"
+      }
+    ],
+    "date": "15-10-2024",
+    "description": "A versatile Python Discord bot offering games, utilities, and moderation tools, integrating multiple REST APIs for enhanced functionality."
+  }
+]

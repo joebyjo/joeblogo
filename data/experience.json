@@ -1,0 +1,90 @@
+[
+  {
+    "company": "Marsupium",
+    "logo": "/images/marsupium_logo.png",
+    "links": [
+      {
+        "url": "https://www.mymarsupium.com/",
+        "label": "[Website]"
+      }
+    ],
+    "roles": [
+      {
+        "role": "Fullstack Developer",
+        "start": "Dec 2025",
+        "end": "Mar 2026",
+        "type": "On-Site",
+        "highlights": [],
+        "skills": [
+          "Communication",
+          "Mentoring",
+          "Student Support"
+        ]
+      },
+      {
+        "role": "Co-Founder",
+        "start": "Mar 2026",
+        "end": "Present",
+        "type": "On-Site",
+        "highlights": [],
+        "skills": [
+          "Communication",
+          "Mentoring",
+          "Student Support"
+        ]
+      }
+    ]
+  },
+  {
+    "company": "MOD.",
+    "logo": "/images/mod_logo.jpeg",
+    "links": [
+      {
+        "url": "https://www.mymarsupium.com/",
+        "label": "[Website]"
+      }
+    ],
+    "roles": [
+      {
+        "role": "Moderator",
+        "start": "Dec 2025",
+        "end": "Present",
+        "type": "On-Site",
+        "highlights": [],
+        "skills": [
+          "Communication",
+          "Mentoring",
+          "Student Support"
+        ]
+      }
+    ]
+  },
+  {
+    "company": "Adelaide University",
+    "logo": "/images/adelaideuni_logo.jpeg",
+    "links": [
+      {
+        "url": "https://www.adelaide.edu.au/",
+        "label": "[Website]"
+      }
+    ],
+    "roles": [
+      {
+        "role": "Peer Connect Leader",
+        "start": "Feb 2025",
+        "end": "Present",
+        "type": "Hybrid",
+        "highlights": [
+          "Supported commencing students through transition calls",
+          "Provided guidance on university systems and study planning",
+          "Worked collaboratively with the Peer Connect team"
+        ],
+        "skills": [
+          "Communication",
+          "Mentoring",
+          "Student Support"
+        ]
+      }
+    ]
+  }
+]
