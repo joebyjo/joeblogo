@@ -36,7 +36,7 @@ jobs:
         extended: true
 
     - name: Download modules
-      run: hugo mod download
+      run: hugo mod get
 
     - name: Build Hugo
       run: hugo --minify --baseURL "https://joebyjo.github.io/blog/"
