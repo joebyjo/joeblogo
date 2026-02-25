@@ -4,7 +4,7 @@ date: 2026-02-07
 description: "Microservices fintech backend with Fiskil integration"
 tags: ["C#", ".NET", "PostgreSQL", "Docker", "Azure"]
 github: "https://github.com/username/marsupium"
-cover: "/images/projects/unnamed.jpg"
+cover: "images/projects/unnamed.jpg"
 ---
 # My Work Experience at Marsupium
 

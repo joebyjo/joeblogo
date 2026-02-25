@@ -5,7 +5,7 @@ description: "a tutorial on how to back up photos on your iphone to a HDD"
 draft: false
 tags: ["VLC", "how-to"]
 keywords: ["VLC", "media"]
-cover: "/images/projects/unnamed.jpg"
+cover: "images/projects/unnamed.jpg"
 ---
 
 ### 1. Connect iPhone

@@ -1,7 +1,7 @@
 [
   {
     "company": "Marsupium",
-    "logo": "/images/marsupium_logo.png",
+    "logo": "images/marsupium_logo.png",
     "links": [
       {
         "url": "https://www.mymarsupium.com/",
@@ -37,7 +37,7 @@
   },
   {
     "company": "MOD.",
-    "logo": "/images/mod_logo.jpeg",
+    "logo": "images/mod_logo.jpeg",
     "links": [
       {
         "url": "https://www.mymarsupium.com/",
@@ -61,7 +61,7 @@
   },
   {
     "company": "Adelaide University",
-    "logo": "/images/adelaideuni_logo.jpeg",
+    "logo": "images/adelaideuni_logo.jpeg",
     "links": [
       {
         "url": "https://www.adelaide.edu.au/",
