@@ -3,6 +3,8 @@ name: Deploy Hugo site
 on:
   push:
     branches: [ main ]
+  repository_dispatch:
+    types: [theme-release]
 
 permissions:
   contents: read

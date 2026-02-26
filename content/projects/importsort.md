@@ -4,12 +4,12 @@ date: 2025-09-09
 description: "Movie discovery and Movie journaling platform"
 tags: ["ExpressJS", "Vue.js", "node.js", "MySQL", "Docker"]
 github: "https://github.com/username/marsupium"
-cover: "/images/projects/test.png"
+cover: "images/projects/test.png"
 ---
 
 # 🎬 Building Cinematch — A Full-Stack Movie Discovery Platform
 
-![Logo](./docs/images/cinematch_logo.png)
+![Logo](./docs/images/cinematch_logo.png) 
 
 ## Introduction
 
