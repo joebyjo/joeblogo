@@ -1,90 +1,140 @@
 [
-  {
-    "company": "Marsupium",
-    "logo": "images/marsupium_logo.png",
-    "links": [
-      {
-        "url": "https://www.mymarsupium.com/",
-        "label": "[Website]"
-      }
-    ],
-    "roles": [
-      {
-        "role": "Fullstack Developer",
-        "start": "Dec 2025",
-        "end": "Mar 2026",
-        "type": "On-Site",
-        "highlights": [],
-        "skills": [
-          "Communication",
-          "Mentoring",
-          "Student Support"
-        ]
-      },
-      {
-        "role": "Co-Founder",
-        "start": "Mar 2026",
-        "end": "Present",
-        "type": "On-Site",
-        "highlights": [],
-        "skills": [
-          "Communication",
-          "Mentoring",
-          "Student Support"
-        ]
-      }
-    ]
-  },
-  {
-    "company": "MOD.",
-    "logo": "images/mod_logo.jpeg",
-    "links": [
-      {
-        "url": "https://www.mymarsupium.com/",
-        "label": "[Website]"
-      }
-    ],
-    "roles": [
-      {
-        "role": "Moderator",
-        "start": "Dec 2025",
-        "end": "Present",
-        "type": "On-Site",
-        "highlights": [],
-        "skills": [
-          "Communication",
-          "Mentoring",
-          "Student Support"
-        ]
-      }
-    ]
-  },
-  {
-    "company": "Adelaide University",
-    "logo": "images/adelaideuni_logo.jpeg",
-    "links": [
-      {
-        "url": "https://www.adelaide.edu.au/",
-        "label": "[Website]"
-      }
-    ],
-    "roles": [
-      {
-        "role": "Peer Connect Leader",
-        "start": "Feb 2025",
-        "end": "Present",
-        "type": "Hybrid",
-        "highlights": [
-          "Supported commencing students through transition calls",
-          "Provided guidance on university systems and study planning",
-          "Worked collaboratively with the Peer Connect team"
-        ],
-        "skills": [
-          "Communication",
-          "Mentoring",
-          "Student Support"
-        ]
-      }
-    ]
-  }
+	{
+		"company": "Marsupium",
+		"logo": "images/experience/marsupium_logo.png",
+		"links": [
+			{
+				"url": "https://www.mymarsupium.com/",
+				"label": "[Website]"
+			}
+		],
+		"roles": [
+			{
+				"role": "Intern Fullstack Developer",
+				"start": "Dec 2025",
+				"end": "Mar 2026",
+				"type": "On-Site",
+				"highlights": [
+					"Designed and delivered a secure Open Banking platform using React Native and a .NET backend, integrating Fiskil APIs/SDKs for OAuth-based user consent and real-time financial data synchronization.",
+					"Engineered event-driven webhook services with cryptographic signature verification, robust error handling, and Firestore-based caching and persistence on Google Cloud Platform (GCP).",
+					"Contributed to scalable backend architecture, clean API design, and production-ready cloud deployments.",
+					"Worked within an Agile development workflow using Jira and GitHub integrations."
+				],
+				"skills": [
+					"React Native",
+					".NET",
+					"C#",
+					"REST APIs",
+					"OAuth 2.0",
+					"Open Banking Integration",
+					"Fiskil API/SDK",
+					"Google Cloud Platform (GCP)",
+					"Cloud Functions",
+					"Firestore",
+					"Webhook Development",
+					"Cryptographic Signature Verification",
+					"CI/CD",
+					"GitHub",
+					"Agile (Scrum)",
+					"Jira"
+				]
+			},
+			{
+				"role": "Fullstack Developer",
+				"start": "Mar 2026",
+				"end": "Present",
+				"type": "On-Site",
+				"highlights": [
+					"Led continued development and optimisation of a secure Open Banking platform built with React Native and .NET.",
+					"Deployed and operated backend services on Google Cloud Platform (GCP), leveraging managed hosting and cloud-native infrastructure for scalability and reliability.",
+					"Drove Agile sprint execution using Jira while implementing GitHub integrations and CI/CD pipelines to significantly improve team productivity.",
+					"Led technical onboarding and mentorship of 3 software engineering interns, guiding architectural decisions and best practices."
+				],
+				"skills": [
+					"Full-Stack Development",
+					"React Native",
+					".NET",
+					"C#",
+					"System Architecture",
+					"Cloud-Native Development",
+					"Google Cloud Platform (GCP)",
+					"Firestore",
+					"CI/CD Pipelines",
+					"GitHub Actions",
+					"Agile (Scrum)",
+					"Jira",
+					"Technical Mentorship",
+					"API Design",
+					"Secure Systems Design"
+				]
+			}
+		]
+	},
+	{
+		"company": "MOD.",
+		"logo": "images/experience/mod_logo.jpeg",
+		"links": [
+			{
+				"url": "https://mod.org.au/",
+				"label": "[Website]"
+			}
+		],
+		"roles": [
+			{
+				"role": "Moderator",
+				"start": "Dec 2025",
+				"end": "Present",
+				"type": "On-Site",
+				"highlights": [
+					"Facilitated engaging and inclusive visitor experiences within a university-based exhibition space.",
+					"Communicated complex ideas clearly to diverse audiences including students, families, and community members.",
+					"Maintained a welcoming and safe environment while supporting interactive learning activities."
+				],
+				"skills": [
+					"Public Engagement",
+					"Communication",
+					"Facilitation",
+					"Community Outreach",
+					"Customer Service",
+					"Team Collaboration"
+				]
+			}
+		]
+	},
+	{
+		"company": "Adelaide University",
+		"logo": "images/experience/adelaideuni_logo.jpeg",
+		"links": [
+			{
+				"url": "https://adelaideuni.edu.au/",
+				"label": "[Website]"
+			}
+		],
+		"roles": [
+			{
+				"role": "Peer Connect Leader",
+				"start": "Nov 2025",
+				"end": "Present",
+				"type": "Hybrid",
+				"highlights": [
+					"Conducted outbound welcome and transition support calls via Webex, guiding students through offer acceptance, enrolment, and onboarding processes.",
+					"Managed student interactions using a CRM system, maintaining accurate case notes and ensuring timely follow-ups.",
+					"Provided guidance on SATAC processes, credit transfers, study plans, and course enrolment issues.",
+					"Resolved complex enrolment scenarios and escalated cases to relevant university services where required.",
+					"Delivered clear, empathetic communication during high-volume admissions periods, contributing to a positive onboarding experience."
+				],
+				"skills": [
+					"Student Support",
+					"CRM Systems",
+					"Webex",
+					"Case Management",
+					"Problem Solving",
+					"Process Guidance",
+					"Email Communication",
+					"Escalation Management",
+					"Attention to Detail"
+				]
+			}
+		]
+	}
 ]
