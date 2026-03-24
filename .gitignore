@@ -4,6 +4,9 @@
 /assets/jsconfig.json
 hugo_stats.json
 
+# obsidian to hugo export script
+export_obsidian_to_hugo.py
+
 # executable may be added to repository
 hugo.exe
 hugo.darwin

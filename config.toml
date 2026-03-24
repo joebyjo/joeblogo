@@ -21,7 +21,7 @@ pagination.pagerSize = 7
 
 [menu]
   [[menu.main]]
-    name = "Projects & Engagements"
+    name = "Projects"
     url = "/projects/"
     weight = 2
 

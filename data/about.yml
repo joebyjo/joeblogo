@@ -1,0 +1,97 @@
+name: JoeByjo
+location: Adelaide, AU
+studying: B. CompSci @ Adelaide University
+status:
+  label: open to work
+  available: true
+
+social_links:
+  - label: Github
+    url: https://github.com/joebyjo
+  - label: LinkedIn
+    url: https://www.linkedin.com/in/joe-byjo/
+  - label: Email
+    url: mailto:joebyjo@gmail.com
+
+avatar: |
+  ┌────────────┐
+  │  ┌──────┐  │
+  │  │ ◉  ◉ │  │
+  │  │  ▾   │  │
+  │  └──────┘  │
+  │   / JB \   │
+  └────────────┘
+
+skill_bars:
+  - label: Python
+    percent: 90
+  - label: C / C++
+    percent: 70
+  - label: Web Dev
+    percent: 75
+  - label: Security
+    percent: 65
+  - label: ML / Data
+    percent: 60
+
+skills:
+  - name: Python
+    icon: "https://cdn.simpleicons.org/python/white"
+    show_icon: true
+    show_stack: true
+  - name: C++
+    icon: "https://cdn.simpleicons.org/cplusplus/white"
+    show_icon: true
+    show_stack: true
+  - name: C
+    icon: "https://cdn.simpleicons.org/c/white"
+    show_icon: true
+    show_stack: true
+  - name: R
+    icon: "https://cdn.simpleicons.org/r/white"
+    show_icon: true
+    show_stack: false
+  - name: MySQL
+    icon: "https://cdn.simpleicons.org/mysql/white"
+    show_icon: true
+    show_stack: true
+  - name: Redhat
+    icon: "https://cdn.simpleicons.org/redhat/white"
+    show_icon: true
+    show_stack: false
+  - name: Bash
+    icon: "https://cdn.simpleicons.org/gnubash/white"
+    show_icon: true
+    show_stack: true
+  - name: Git
+    icon: "https://cdn.simpleicons.org/git/white"
+    show_icon: true
+    show_stack: true
+  - name: Github
+    icon: "https://cdn.simpleicons.org/github/white"
+    show_icon: true
+    show_stack: false
+  - name: Burpsuite
+    icon: "https://cdn.simpleicons.org/burpsuite/white"
+    show_icon: true
+    show_stack: true
+  - name: VMware
+    icon: "https://cdn.simpleicons.org/vmware/white"
+    show_icon: true
+    show_stack: false
+  - name: Flask
+    icon: "https://cdn.simpleicons.org/flask/white"
+    show_icon: true
+    show_stack: true
+  - name: Machine Learning
+    show_icon: false
+    show_stack: true
+  - name: React Native
+    show_icon: false
+    show_stack: true
+  - name: .NET
+    show_icon: false
+    show_stack: true
+  - name: GCP
+    show_icon: false
+    show_stack: true
