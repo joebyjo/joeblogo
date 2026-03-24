@@ -12,3 +12,5 @@ github.com/joebyjo/wreck-it-ralph-hugo-theme v1.0.7 h1:BxhCsbP2RFIFvkPmcCDlCYsG8
 github.com/joebyjo/wreck-it-ralph-hugo-theme v1.0.7/go.mod h1:dT9iuGL/qwND8ZaUds18gGn8Rjxipm2Ig3BgkRBXoc0=
 github.com/joebyjo/wreck-it-ralph-hugo-theme/v2 v2.0.1 h1:TjmE61xFAaUhkqcbfO0rEYDwV7poOSZ3g0Ja/pxidmE=
 github.com/joebyjo/wreck-it-ralph-hugo-theme/v2 v2.0.1/go.mod h1:NDLswmUlUxIHMVeI2iw/LrU6Eskqzvdtj4x9YhFgR6c=
+github.com/joebyjo/wreck-it-ralph-hugo-theme/v2 v2.0.2 h1:FU76d31vm1kYdGddWRQDanFGQEVjASKL/1Qa6lJ4Jy0=
+github.com/joebyjo/wreck-it-ralph-hugo-theme/v2 v2.0.2/go.mod h1:NDLswmUlUxIHMVeI2iw/LrU6Eskqzvdtj4x9YhFgR6c=
