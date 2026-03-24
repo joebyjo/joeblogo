@@ -41,7 +41,7 @@ jobs:
       run: hugo mod get
 
     - name: Build Hugo
-      run: hugo --minify --baseURL "https://joebyjo.github.io/joeblogo/"
+      run: hugo --minify --baseURL "https://joebyjo.dev/"
     
     - name: Check public directory
       run: tree

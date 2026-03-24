@@ -1,4 +1,4 @@
-baseURL = 'https://joebyjo.github.io/joeblogo/'
+baseURL = 'https://joebyjo.dev/'
 languageCode = 'en-us'
 title = 'whois JoeByjo'
 pagination.pagerSize = 7
