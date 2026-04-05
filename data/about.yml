@@ -28,9 +28,9 @@ skill_bars:
   - label: C / C++
     percent: 70
   - label: Web Dev
-    percent: 75
+    percent: 85
   - label: Security
-    percent: 65
+    percent: 70
   - label: ML / Data
     percent: 60
 
