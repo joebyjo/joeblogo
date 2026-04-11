@@ -1,10 +1,15 @@
 ---
-title: "Cinematch"
+title: Cinematch
 date: 2025-09-09
-description: "Movie discovery and Movie journaling platform"
-tags: ["ExpressJS", "Vue.js", "node.js", "MySQL", "Docker"]
-github: "https://github.com/username/marsupium"
-cover: "/images/projects/cinematch_artwork.png"
+description: Movie discovery and Movie journaling platform
+tags:
+  - ExpressJS
+  - Vue.js
+  - node.js
+  - MySQL
+  - Docker
+github:
+cover: /images/projects/cinematch_artwork.png
 ---
 # Building Cinematch: A Full-Stack Movie Discovery Platform
 
@@ -52,6 +57,8 @@ These features together create a seamless discovery-to-watchlist workflow.
 ---
 ## System Architecture
 
+![Pasted image 20260405235455.png](/images/projects/Pasted image 20260405235455.png)
+
 The project follows a structured full-stack architecture:
 
 ```
@@ -82,6 +89,7 @@ Security and stability were important priorities, so the backend includes:
 
 The system also integrates external movie data providers via API requests, allowing the platform to dynamically fetch media information.
 
+![cinematch_db_schema.png](/images/projects/cinematch_db_schema.png)
 ---
 ### Frontend
 
