@@ -1,11 +1,13 @@
 ---
-title: "Backing Up iPhone Photos to an External HDD"
+title: Backing Up iPhone Photos to an External HDD
 date: 2025-10-19
-description: "a tutorial on how to back up photos on your iphone to a HDD"
+description: A tutorial on how to back up photos on your iphone to a HDD
+tags:
+  - tricks
+  - backup
+  - ios
 draft: false
-tags: ["VLC", "how-to"]
-keywords: ["VLC", "media"]
-cover: "images/projects/unnamed.jpg"
+cover: /images/projects/unnamed.jpg
 ---
 
 ### 1. Connect iPhone
