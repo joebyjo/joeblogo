@@ -9,11 +9,11 @@ tags:
   - MySQL
   - Docker
 github:
-cover: /images/projects/cinematch_artwork.png
+cover: /images/projects/cinematch/9BE4B97F60A0D8984AEE6BEE9C15BEF6.png
 ---
 # Building Cinematch: A Full-Stack Movie Discovery Platform
 
-![Logo](/images/projects/cinematch_logo.png)
+![DD2850F505CA855C9A4DE298B27A8DFD.png](/images/projects/cinematch/DD2850F505CA855C9A4DE298B27A8DFD.png)
 ## Introduction
 
 One of the biggest problems with modern streaming platforms is not the lack of content, it’s deciding *what to watch*. With thousands of movies and TV shows available, users often spend more time browsing than actually watching.
@@ -57,7 +57,7 @@ These features together create a seamless discovery-to-watchlist workflow.
 ---
 ## System Architecture
 
-![Pasted image 20260405235455.png](/images/projects/Pasted image 20260405235455.png)
+![A610C129AF211CB358A1B693D533217A.png](/images/projects/cinematch/A610C129AF211CB358A1B693D533217A.png)
 
 The project follows a structured full-stack architecture:
 
@@ -89,7 +89,8 @@ Security and stability were important priorities, so the backend includes:
 
 The system also integrates external movie data providers via API requests, allowing the platform to dynamically fetch media information.
 
-![cinematch_db_schema.png](/images/projects/cinematch_db_schema.png)
+![3837F8FD4B46367A8A8836492D24F752.png](/images/projects/cinematch/3837F8FD4B46367A8A8836492D24F752.png)
+
 ---
 ### Frontend
 
@@ -168,8 +169,8 @@ These improvements would move the project even closer to a real-world production
 
   
 
-![Home Page](https://github.com/joebyjo/cinematch/raw/main/docs/images/cinematch_home.png)
+![D7684A38DEF5D97CF07E8966F877B795.png](/images/projects/cinematch/D7684A38DEF5D97CF07E8966F877B795.png)
 
-![Personalise Page](https://github.com/joebyjo/cinematch/raw/main/docs/images/cinematch_personalise.png)
+![E67EEE9ABD03DFE4C6A0A8563EFF3B7B.png](/images/projects/cinematch/E67EEE9ABD03DFE4C6A0A8563EFF3B7B.png)
 
-![Mylist page](https://github.com/joebyjo/cinematch/raw/main/docs/images/cinematch_mylists.png)
+![211E702047659AC3D94425A6B1441806.png](/images/projects/cinematch/211E702047659AC3D94425A6B1441806.png)

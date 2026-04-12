@@ -10,9 +10,8 @@ tags:
   - AI
   - LLM
 github:
-cover: /images/projects/catwiz_artwork.png
+cover: /images/projects/catwiz/127B95963FE932E54ADCA95CDC7CC05B.png
 ---
-
 # Building CatWiz: A Prompt Injection CTF Challenge
 
 ## Introduction
@@ -50,23 +49,18 @@ During the competition, we actively monitored system performance and user activi
 
 ## Screenshots / Visuals
 
-_(Add your images here — suggested sections below)_
-
 ### 💬 Chat Interface
 
-_Show the chatbot UI where players attempt prompt injection._
-
+![CCDEB28EDC5975989EA7DFF9702E945B.png](/images/projects/catwiz/CCDEB28EDC5975989EA7DFF9702E945B.png)
 ### 🏆 Live Leaderboard
-
-_Display rankings updating in real time during the competition._
-
-### 🧩 Challenge Progression
-
-_Illustrate how difficulty increases across levels._
+![0B4E0FAC3AD0DD0FB16DC8F51CD2B182.png](/images/projects/catwiz/0B4E0FAC3AD0DD0FB16DC8F51CD2B182.png)
 
 ### 🛠️ Development & Event
 
-_Photos of you, your teammate, or the event setup to add a personal touch._
+
+![FFFC8202F47432D818C75447D319D827.png](/images/projects/catwiz/FFFC8202F47432D818C75447D319D827.png)
+![4340E4CB2C6478490AD2111770B91074.png](/images/projects/catwiz/4340E4CB2C6478490AD2111770B91074.png)
+![09128C97377D032BA0509CE47FFAD34C.png](/images/projects/catwiz/09128C97377D032BA0509CE47FFAD34C.png)
 
 ---
 
