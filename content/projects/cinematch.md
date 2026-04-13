@@ -10,6 +10,7 @@ tags:
   - Docker
 github:
 cover: /images/projects/cinematch/9BE4B97F60A0D8984AEE6BEE9C15BEF6.png
+draft: false
 ---
 # Building Cinematch: A Full-Stack Movie Discovery Platform
 

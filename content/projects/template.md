@@ -5,4 +5,5 @@ description:
 tags:
 github:
 cover: /images/projects/typingspeedv2_artwork.png
+draft: true
 ---

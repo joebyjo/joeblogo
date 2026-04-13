@@ -1,6 +1,6 @@
 ---
 title: Catwiz
-date: 2025-09-09
+date: 2026-03-12
 description: Prompt Injection CTF Game
 tags:
   - ExpressJS
@@ -11,6 +11,7 @@ tags:
   - LLM
 github:
 cover: /images/projects/catwiz/127B95963FE932E54ADCA95CDC7CC05B.png
+draft: false
 ---
 # Building CatWiz: A Prompt Injection CTF Challenge
 
@@ -49,17 +50,19 @@ During the competition, we actively monitored system performance and user activi
 
 ## Screenshots / Visuals
 
-### 💬 Chat Interface
+### Chat Interface
 
 ![CCDEB28EDC5975989EA7DFF9702E945B.png](/images/projects/catwiz/CCDEB28EDC5975989EA7DFF9702E945B.png)
-### 🏆 Live Leaderboard
+
+### Live Leaderboard
 ![0B4E0FAC3AD0DD0FB16DC8F51CD2B182.png](/images/projects/catwiz/0B4E0FAC3AD0DD0FB16DC8F51CD2B182.png)
 
-### 🛠️ Development & Event
-
+### Development & Event
 
 ![FFFC8202F47432D818C75447D319D827.png](/images/projects/catwiz/FFFC8202F47432D818C75447D319D827.png)
+
 ![4340E4CB2C6478490AD2111770B91074.png](/images/projects/catwiz/4340E4CB2C6478490AD2111770B91074.png)
+
 ![09128C97377D032BA0509CE47FFAD34C.png](/images/projects/catwiz/09128C97377D032BA0509CE47FFAD34C.png)
 
 ---
@@ -68,7 +71,7 @@ During the competition, we actively monitored system performance and user activi
 
 The competition saw strong participation, with players actively experimenting with creative prompt injection strategies to break the system.
 
-A huge congratulations to **Charvi Bhandari** for securing 1st place and winning the $100 prize 🏆
+A huge congratulations to **Charvi Bhandari** for securing 1st place and winning the $100 prize
 
 We’re also incredibly grateful for the support that made this event possible:
 
@@ -85,10 +88,7 @@ CatWiz was more than just a CTF challenge — it was an exploration of how **AI 
 Building this platform from scratch taught us valuable lessons in:
 
 - Designing secure AI systems
-    
 - Scaling applications under constraints
-    
 - Creating engaging, educational user experiences
-    
 
 As AI continues to evolve, understanding and mitigating risks like prompt injection will only become more important. CatWiz was our way of making that learning process interactive, competitive, and fun.
