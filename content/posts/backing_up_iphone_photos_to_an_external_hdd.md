@@ -7,7 +7,7 @@ tags:
   - backup
   - ios
 draft: false
-cover: /images/projects/unnamed.jpg
+cover:
 ---
 
 ### 1. Connect iPhone

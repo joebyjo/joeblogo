@@ -7,7 +7,7 @@ tags:
   - tricks
   - shell
 draft: false
-cover: /images/projects/unnamed.jpg
+cover:
 ---
   
 

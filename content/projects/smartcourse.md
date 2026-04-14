@@ -13,7 +13,7 @@ tags:
   - Docker
 github:
 cover: /images/projects/smartcourse/EB6071833EA65FA2A0D29B52F7884C13.png
-draft: true
+draft: false
 ---
 # SmartCourse Advisor: Merging AI, Data, and Student Voices
 

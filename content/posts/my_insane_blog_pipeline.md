@@ -8,7 +8,7 @@ tags:
   - github
   - hugo
 draft: false
-cover: /images/projects/unnamed.jpg
+cover:
 ---
 
 I’ve reached a point where my brain is essentially a browser with too many tabs open. To fix this, I decided to start blogging for two reasons: I needed a "second brain" to offload everything I’m learning, and I stumbled upon a [NetworkChuck video](https://www.youtube.com/watch?v=dnE7c0ELEH8) that made building a blog pipeline look like the perfect sandbox for some DevOps experimentation.
