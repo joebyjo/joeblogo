@@ -1,6 +1,6 @@
 ---
 title: My Insane Blog Pipeline
-date: 2025-10-19
+date: 2026-02-24
 description: A journal of how I created this website
 tags:
   - blog

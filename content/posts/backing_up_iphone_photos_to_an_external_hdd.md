@@ -10,11 +10,10 @@ draft: false
 cover:
 ---
 
+
 ### 1. Connect iPhone
 - Plug in your iPhone using a USB or USB-C to Lightning cable.
 - Unlock your phone and tap **"Trust This Computer"** if prompted.
-
-*(Add image: iPhone connected to Mac with “Trust This Computer” prompt)*
 
 ---
 
@@ -22,7 +21,7 @@ cover:
 - On your Mac, press `Cmd + Space` → type `Image Capture` → press **Enter**.
 - In the left sidebar, click your **iPhone** under “Devices”.
 
-*(Add image: Image Capture window showing iPhone under Devices)*
+![474AA3804CE6F6FBAA942BFC7802FAA1.png](/images/posts/backing_up_iphone_photos_to_an_external_hdd/474AA3804CE6F6FBAA942BFC7802FAA1.png)
 
 ---
 
@@ -37,7 +36,7 @@ cover:
 
 ```
 
-*(Add image: Image Capture import destination dropdown pointing to external HDD)*
+![E7CDD9FEB3D64D0D2747B33FC70CB52C.png](/images/posts/backing_up_iphone_photos_to_an_external_hdd/E7CDD9FEB3D64D0D2747B33FC70CB52C.png)
 
 ---
 
@@ -59,8 +58,6 @@ Image Capture transfers the **original** files directly from your iPhone.
 - No compression  
 - No metadata loss  
 
-*(Add image: Image Capture showing transfer progress bar)*
-
 ---
 
 ### 6. List File Types in Folder (Optional)
@@ -68,23 +65,23 @@ Use this Bash command to list all **unique file extensions** in the current fold
 
 ```bash
 
-find . -type f -name '_._' | sed -n 's/.*.//p' | tr '[:upper:]' '[:lower:]' | sort -u
+find . -type f | sed -n 's/.*\.//p' | sort | uniq
 
 ```
 
 **Explanation:**
-- `find . -type f -name '*.*'` → Finds all files containing a dot in their name.  
-- `sed -n 's/.*\.//p'` → Extracts text after the last dot (the extension).  
-- `tr '[:upper:]' '[:lower:]'` → Converts extensions to lowercase.  
-- `sort -u` → Sorts and removes duplicates.
+- `find . -type f` -> Finds all files.  
+- `sed -n 's/.*\.//p'` -> Extracts text after the last dot (the extension).  
+- `sort` -> Sorts
+- `uniq` -> removes duplicates
 
 Example output:
 ```
 
-heic  
-jpg  
-mov  
-mp4
+HEIC
+JPG
+MOV 
+MP4
 
 ```
 
