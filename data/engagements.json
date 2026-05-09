@@ -1,25 +1,43 @@
 [
   {
-    "title": "Minesweeper 2.0",
+    "title": "CatWiz",
     "links": [
       {
-        "url": "https://github.com/joebyjo/minesweeper2.0",
-        "linkLabel": "[Github Link]"
+        "url": "/projects/catwiz",
+        "linkLabel": "[Blog Post]"
+      },
+      {
+        "url": "https://www.linkedin.com/posts/joe-byjo_ai-promptinjection-ctf-activity-7438128723289321472-WFh7",
+        "linkLabel": "[LinkedIn]"
       }
     ],
-    "date": "15-10-2024",
-    "description": "A thrilling twist on the classic Minesweeper game with powerups that help you flag mines, reveal safe tiles, and strategize your way to victory"
+    "date": "12-03-2026",
+    "description": "Built CatWiz, a prompt injection CTF for the AIML Club, engineering a scalable platform powered by a real LLM to support high participant volume and realistic attack scenarios"
   },
   {
-    "title": "TypeDash",
+    "title": "RSPxCPC '26",
+    "date": "01-02-2026",
+    "description": "Participated in RSPxCPC '26, a fast-paced competitive programming contest by Ravi's Study Program and ACPC, securing a top 8 spot out of 50+ teams"
+  },
+  {
+    "title": "Ravi's Study Program",
+    "date": "23-11-2025",
+    "description": "A simple Python typing speed test with user-wise data tracking, session history, best run stats, and a leaderboard—powered by built-in libraries and Pickle."
+  },
+  {
+    "title": "CSCxUPC Hackathon",
     "links": [
       {
-        "url": "https://github.com/joebyjo/TypeDash",
+        "url": "https://github.com/joebyjo/smart-course-advisor",
         "linkLabel": "[Github Link]"
+      },
+      {
+        "url": "/projects/smartcourse",
+        "linkLabel": "[Blog Post]"
       }
     ],
-    "date": "15-10-2024",
-    "description": "A fast-paced typing game built for improving speed and accuracy with a clean UI and real-time feedback."
+    "date": "15-08-2025",
+    "description": "Jumped into my first Software Engineering hackathon with CSClub, collaborating on a smart course advisor while sharpening my skills in fast-paced development, teamwork, and creative problem-solving"
   },
   {
     "title": "DuckCTF in collaboration with AC3",
@@ -31,27 +49,5 @@
     ],
     "date": "15-10-2024",
     "description": "Secured a top 5 finish in DuckCTF alongside the A3C, showcasing my enthusiasm for learning and engaging with the growing cybersecurity community."
-  },
-  {
-    "title": "Typing-Speed-TUI",
-    "links": [
-      {
-        "url": "https://github.com/joebyjo/Typing-Speed-TUI",
-        "linkLabel": "[Github Link]"
-      }
-    ],
-    "date": "15-10-2024",
-    "description": "A simple Python typing speed test with user-wise data tracking, session history, best run stats, and a leaderboard—powered by built-in libraries and Pickle."
-  },
-  {
-    "title": "RandyTrandy Discord Bot",
-    "links": [
-      {
-        "url": "https://github.com/joebyjo/Randy-Trandy",
-        "linkLabel": "[Github Link]"
-      }
-    ],
-    "date": "15-10-2024",
-    "description": "A versatile Python Discord bot offering games, utilities, and moderation tools, integrating multiple REST APIs for enhanced functionality."
   }
 ]

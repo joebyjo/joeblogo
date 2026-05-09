@@ -8,7 +8,8 @@ github:
 cover: /images/projects/typingspeedv2/FC4A.png
 draft: true
 ---
-I recently got my hands on the PDF of a book i was planning on reading and i had a whole load of university printing quota that i needed to finish off before the semester (printing period) officially ends. And what's reading a book if not physically flipping through each page and so i decided to print out this book
+
+I recently got my hands on the PDF of a book I was planning on reading and I had a whole load of university printing quota that I needed to finish off before the semester (printing period) officially ends. And what's reading a book if not physically flipping through each page and so I decided to print out this book
 
 Sounds pretty simple(it kind of is), but it's easy to mess up and when you're tight on how many test runs you've got, might as well not waste any pages.
 
@@ -26,10 +27,18 @@ Much more reasonable.
 I also wanted the reading experience to feel natural. I really didn’t want to have to rotate the entire book every time I flipped a page
 
 
+## Result
+
+Here's the final result:
+
+
+[pictures of the books]
+
+
 So here’s the exact setup I ended up using, nothing fancy, just what actually works.
 
 
-### Step-by-Step Instructions
+## Step-by-Step Instructions
 
 1. Open the PDF in **Adobe Acrobat (Reader or Pro)**
 2. Go to `File → Print`
@@ -79,7 +88,7 @@ Before printing the entire document:
 
 ---
 
-### Final Checks Before Printing
+## Final Checks Before Printing
 
 - Confirm layout in **Preview pane**
 - Ensure the total number of **book pages is a multiple of 4**
@@ -89,7 +98,7 @@ Before printing the entire document:
 
 ## Important Reminders
 
-- Always print in **multiples of 4** pages (e.g., 428 ✅, 429 ❌ unless padded)
+- Always print in **multiples of 4** pages (eg. 428)
 - Use **Preview** before printing the full job
 - Test different **zoom levels** (e.g., 102%, 104%) for margin fit
 - Consider trimming PDF whitespace using a crop tool
