@@ -11,7 +11,7 @@ tags:
   - team
   - MySQL
   - Docker
-github:
+github: https://github.com/joebyjo/smart-course-advisor
 cover: /images/projects/smartcourse/EB6071833EA65FA2A0D29B52F7884C13.png
 draft: false
 ---
@@ -154,6 +154,7 @@ Additionally, tools like **ChatGPT** were used during development to refine feat
 ![D200B88F1482293CE2429341D7A94EB6.png](/images/projects/smartcourse/D200B88F1482293CE2429341D7A94EB6.png)
 
 ![4F78F2CED74573D9BD29E56C1B3A217F.png](/images/projects/smartcourse/4F78F2CED74573D9BD29E56C1B3A217F.png)
+![FD92680616276AACB387395659FD8D08.png](/images/projects/smartcourse/FD92680616276AACB387395659FD8D08.png)
 
 ---
 

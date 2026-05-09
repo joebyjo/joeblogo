@@ -8,7 +8,7 @@ tags:
   - node.js
   - MySQL
   - Docker
-github:
+github: https://github.com/joebyjo/cinematch
 cover: /images/projects/cinematch/9BE4B97F60A0D8984AEE6BEE9C15BEF6.png
 draft: false
 ---

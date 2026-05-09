@@ -8,7 +8,7 @@ tags:
   - game
   - OOP
   - team
-github:
+github: https://github.com/joebyjo/minesweeper2.0
 cover: /images/projects/minesweeper2/F1D96EA511BD96730590C08682F8FB53.png
 draft: false
 ---

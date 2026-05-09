@@ -1,6 +1,6 @@
 ---
 title: Spotify Analysis
-date: 2026-02-07
+date: 2025-07-22
 description: Turning Spotify data into insights and analyzing music trends through code
 tags:
   - python
