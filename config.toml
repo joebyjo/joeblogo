@@ -14,6 +14,11 @@ pagination.pagerSize = 7
   fullWidthTheme = false
   centerTheme = false
 
+[params.umami]
+  enabled = true
+  script = "https://cloud.umami.is/script.js"
+  websiteID = "86297ccd-3f7a-438b-af5b-e18f3985b724"
+
 [markup]
   [markup.goldmark.renderer]
     unsafe = true
