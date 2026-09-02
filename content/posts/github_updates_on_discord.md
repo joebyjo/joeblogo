@@ -42,7 +42,7 @@ Whenever something happens in your repo (push, PR, issue), GitHub sends a POST r
 
 ---
 
-## Step 1 — Create a Discord Webhook
+## Step 1: Create a Discord Webhook
 
 A webhook is just a URL that allows external services to send messages into Discord.
 
@@ -77,7 +77,7 @@ You’ll use this in GitHub.
 
 ---
 
-## Step 2 — Add Webhook to GitHub
+## Step 2: Add Webhook to GitHub
 
 Now we connect GitHub to Discord.
 
@@ -141,7 +141,7 @@ Add webhook
 
 ---
 
-## Step 3 — Test the Webhook
+## Step 3: Test the Webhook
 
 Now let’s verify everything works.
 
