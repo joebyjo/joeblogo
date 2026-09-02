@@ -83,7 +83,7 @@ We’re also incredibly grateful for the support that made this event possible:
 
 ## Closing Thoughts
 
-CatWiz was more than just a CTF challenge — it was an exploration of how **AI systems can be manipulated and how we can design better defenses**.
+CatWiz was more than just a CTF challenge, it was an exploration of how **AI systems can be manipulated and how we can design better defenses**.
 
 Building this platform from scratch taught us valuable lessons in:
 

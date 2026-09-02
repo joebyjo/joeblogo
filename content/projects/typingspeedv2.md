@@ -76,11 +76,11 @@ The entire application was developed in Python, with the project split into modu
 
 The core files include:
 
-- `main.py` — application entry point and menu loop
-- `TypingSpeed.py` — typing test logic and statistics calculations
-- `DatabaseManagement.py` — handles all MySQL interactions
-- `Utils.py` — utility/helper functions
-- `config.py` — database configuration
+- `main.py` - application entry point and menu loop
+- `TypingSpeed.py` - typing test logic and statistics calculations
+- `DatabaseManagement.py` - handles all MySQL interactions
+- `Utils.py` - utility/helper functions
+- `config.py` - database configuration
 
 This modular structure made the project significantly easier to extend and debug during development.
 

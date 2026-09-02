@@ -83,8 +83,8 @@ With release date data integrated, the project explores:
 
 Two primary datasets form the foundation:
 
-- `spotify_track_metadata.csv` — track-level metadata
-- `spotify_track_audio_features.csv` — detailed audio metrics
+- `spotify_track_metadata.csv` - track-level metadata
+- `spotify_track_audio_features.csv` - detailed audio metrics
 
 These datasets are merged and cleaned using **pandas** for consistency and usability.
 

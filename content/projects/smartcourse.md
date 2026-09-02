@@ -168,6 +168,6 @@ In just 48 hours, we built a working prototype that:
 - Provides personalized AI recommendations
 - Prioritizes a student-first design
 
-Beyond the technical implementation, this project reinforced the importance of designing systems around **real user workflows**—in this case, how students actually explore, compare, and choose their courses.
+Beyond the technical implementation, this project reinforced the importance of designing systems around **real user workflows** in this case, how students actually explore, compare, and choose their courses.
 
 As universities continue to evolve, tools like SmartCourse Advisor highlight the potential of technology to make complex decisions **simpler, smarter, and more accessible**.

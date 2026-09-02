@@ -126,4 +126,4 @@ Minesweeper 2.0 demonstrates how even the most classic games can be reimagined w
 
 By introducing powerups and maintaining a clean, responsive interface, the project strikes a balance between **nostalgia and innovation**. From a technical perspective, it also showcases the power of combining low-level programming with multimedia libraries to build fully interactive applications from scratch.
 
-More importantly, this project highlights how small gameplay changes—when implemented well—can significantly elevate user experience and replayability.
+More importantly, this project highlights how small gameplay changes, when implemented well can significantly elevate user experience and replayability.
