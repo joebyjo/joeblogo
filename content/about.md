@@ -1,17 +1,21 @@
 ---
 title: "About Me"
 ---
-I am currently pursuing a Bachelor of Computer Science at the University of Adelaide and completed my schooling at DPS Dubai. My journey in technology has been driven by curiosity and a passion for learning, which has led me to explore a variety of fields and projects.
+I am currently in my final year of a Bachelor of Computer Science at the University of Adelaide (Adelaide University). My journey in technology has been driven by curiosity and a passion for building, learning, and solving complex problems.
+
+I have gained professional experience across software engineering and full-stack development. As a Full-Stack Developer at Marsupium, I worked on developing a secure Open Banking platform using React Native, .NET, Fiskil, Firestore, and Google Cloud Platform. I worked on financial data integrations, webhook services, API design, CI/CD, and cloud deployments, while also mentoring three software engineering interns.
 
 ![Headshot](/images/experience/headshot.png)
 
-I have hands-on experience in areas such as automation tools, developing games, Web and API penetration testing, creating Discord and Reddit bots.My work has given me broad exposure to APIs, low-level and high-level programming. I have a strong foundational knowledge of Linux and practical experience with Git for version control. I also have experience with home labbing using platforms like Ubuntu, Proxmox, and Red Hat, as well as networking and computer servicing support.
+I also worked as a Software Engineering Consultant for Paladin Space, I worked on mission planning software, contributing to software architecture, backend/frontend decoupling, CI/CD, cross-platform packaging, automation, and production-ready development.  
 
-In addition, I have participated in multiple Capture The Flag (CTF) events, achieving top 5 placements, and competed in a hackathon, further honing my problem-solving, teamwork, and communication skills.
+My personal projects span full-stack development, AI, automation, cybersecurity, and systems. These include CatWiz, an LLM  prompt injection platform and Cinematch, a full-stack movie discovery application. And various automation tools involving APIs, Python, Linux, and shell scripting.
+  
+I have a strong foundation in Linux, Git, networking, Docker, cloud infrastructure, and software development, with hands-on experience using platforms such as Ubuntu, Proxmox, and Red Hat. I have also explored Web and API penetration testing, reverse engineering, and Capture The Flag (CTF) competitions, achieving multiple top-five placements.
 
-I also have experience in data taming and prediction, utilizing models like Linear Regression, Logistic Regression, KNN, and Random Forests. One of my notable projects involved analyzing voting behavior in the 2016 elections based on various factors, evaluating the accuracy of predictive models through detailed metrics.
+Alongside software engineering and cybersecurity, I have experience with data analysis and predictive modelling using techniques such as Linear Regression, Logistic Regression, KNN, and Random Forests.
 
-I am always eager to expand my knowledge and take on new challenges that push the boundaries of my skills in the field of technology.
+I am always eager to learn, take on new challenges, and build technology that is practical, scalable, and impactful.
 
 ![working](/images/experience/working.gif)
 

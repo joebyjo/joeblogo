@@ -2,6 +2,4 @@
 title: About Me Brief
 ---
 
-I am a Bachelor of Computer Science student at University of Adelaide and currently working as a Full
-Stack Developer at Marsupium. I have developed hands-on experience across web development, APIs,
-automation, cybersecurity, and machine learning projects. I enjoy tackling complex technical challenges, participating in CTFs and hackathons, and continuously expanding my skills across both software engineering and systems technologies.
+I am a Bachelor of Computer Science student at the University of Adelaide with hands-on experience as a Full-Stack Developer at Marsupium and Software Engineering Consultant at Paladin Space. I have worked across full-stack development, backend systems, APIs, cloud infrastructure, CI/CD, automation, data engineering, and AI-enabled applications. I’m particularly interested in software engineering, DevOps, and building scalable, reliable products while continuously expanding my technical skills through personal projects, hackathons, and industry experience.
