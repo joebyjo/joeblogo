@@ -1,5 +1,40 @@
 [
 	{
+		"company": "Paladin Space",
+		"logo": "images/experience/paladin_space_logo.png",
+		"links": [
+			{
+				"url": "https://www.paladinspace.com/",
+				"label": "[Website]"
+			}
+		],
+		"roles": [
+			{
+				"role": "Software Engineering Consultant",
+				"start": "Feb 2026",
+				"end": "Jun 2026",
+				"type": "Remote",
+				"highlights": [
+					"Designed and implemented a CI/CD packaging pipeline that automated application packaging and distribution workflows",
+					"Enabled cross-platform deployment capabilities, allowing the software to be packaged and executed consistently across multiple operating systems",
+					"Analysed and resolved numerous defects across the existing codebase, requiring investigation of legacy components, system behaviour, and cross-service interactions",
+					"Contributed to software architecture decisions and technical direction, identifying and addressing structural issues that hindered future development"
+				],
+				"skills": [
+					"Python",
+					"React",
+					"Electron",
+					"REST APIs",
+					"CI/CD",
+					"GitHub",
+					"GitHub Actions",
+					"Agile (Scrum)",
+					"Jira"
+				]
+			}
+		]
+	},
+	{
 		"company": "Marsupium",
 		"logo": "images/experience/marsupium_logo.png",
 		"links": [
@@ -42,13 +77,13 @@
 			{
 				"role": "Fullstack Developer",
 				"start": "Mar 2026",
-				"end": "Jun 2026",
+				"end": "May 2026",
 				"type": "On-Site",
 				"highlights": [
-					"Led continued development and optimisation of a secure Open Banking platform built with React Native and .NET.",
-					"Deployed and operated backend services on Google Cloud Platform (GCP), leveraging managed hosting and cloud-native infrastructure for scalability and reliability.",
-					"Drove Agile sprint execution using Jira while implementing GitHub integrations and CI/CD pipelines to significantly improve team productivity.",
-					"Led technical onboarding and mentorship of 3 software engineering interns, guiding architectural decisions and best practices."
+					"Led continued development and optimisation of a secure Open Banking platform built with React Native and .NET",
+					"Deployed and operated backend services on Google Cloud Platform (GCP), leveraging managed hosting and cloud-native infrastructure for scalability and reliability",
+					"Drove Agile sprint execution using Jira while implementing GitHub integrations and CI/CD pipelines to significantly improve team productivity",
+					"Led technical onboarding and mentorship of 3 software engineering interns, guiding architectural decisions and best practices"
 				],
 				"skills": [
 					"Full-Stack Development",
@@ -86,9 +121,9 @@
 				"end": "Present",
 				"type": "On-Site",
 				"highlights": [
-					"Facilitated engaging and inclusive visitor experiences within a university-based exhibition space.",
-					"Communicated complex ideas clearly to diverse audiences including students, families, and community members.",
-					"Maintained a welcoming and safe environment while supporting interactive learning activities."
+					"Facilitated engaging and inclusive visitor experiences within a university-based exhibition space",
+					"Communicated complex ideas clearly to diverse audiences including students, families, and community members",
+					"Maintained a welcoming and safe environment while supporting interactive learning activities"
 				],
 				"skills": [
 					"Public Engagement",
@@ -117,11 +152,11 @@
 				"end": "Present",
 				"type": "Hybrid",
 				"highlights": [
-					"Conducted outbound welcome and transition support calls via Webex, guiding students through offer acceptance, enrolment, and onboarding processes.",
-					"Managed student interactions using a CRM system, maintaining accurate case notes and ensuring timely follow-ups.",
-					"Provided guidance on SATAC processes, credit transfers, study plans, and course enrolment issues.",
-					"Resolved complex enrolment scenarios and escalated cases to relevant university services where required.",
-					"Delivered clear, empathetic communication during high-volume admissions periods, contributing to a positive onboarding experience."
+					"Conducted outbound welcome and transition support calls via Webex, guiding students through offer acceptance, enrolment, and onboarding processes",
+					"Managed student interactions using a CRM system, maintaining accurate case notes and ensuring timely follow-ups",
+					"Provided guidance on SATAC processes, credit transfers, study plans, and course enrolment issues",
+					"Resolved complex enrolment scenarios and escalated cases to relevant university services where required",
+					"Delivered clear, empathetic communication during high-volume admissions periods, contributing to a positive onboarding experience"
 				],
 				"skills": [
 					"Student Support",
